@@ -25,6 +25,7 @@ degree: Master of Science in Bioinformatics
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<!-- 
 # Introduction
 
 *Fringilla sem fusce vivamus pellentesque in commodo penatibus bibendum. Vestibulum aptent volutpat vehicula eu rutrum lobortis consequat. Euismod lectus ultrices; duis duis ipsum rhoncus. Ipsum vitae primis potenti suscipit per nascetur rutrum lobortis. Scelerisque pulvinar duis interdum sapien elementum consequat vitae orci. Suspendisse tempor nisl accumsan dolor potenti euismod sed.*
@@ -153,4 +154,6 @@ As shown in @fig-danish-interaction, *feugiat leo quis ante condimentum, eu orna
 # References
 
 ::: {#refs}
-:::
+::: 
+
+-->
