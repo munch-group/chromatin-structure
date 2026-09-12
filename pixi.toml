@@ -23,6 +23,7 @@ nbconvert = "*"
 vscodenb = ">=0.1.13,<0.2"
 geneinfo = ">=5.6.3,<6"
 requests = ">=2.32.5,<3"
+crossrepo = ">=0.1.26,<0.2"
 
 [tasks.init]
 args = ["new_name"]

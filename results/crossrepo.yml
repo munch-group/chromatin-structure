@@ -1,0 +1,3 @@
+files:
+  chrX_medium_loops_lifted.csv: Medium chrX chromatin loops
+  chrX_superloops.csv: chrX chromatin super loops
